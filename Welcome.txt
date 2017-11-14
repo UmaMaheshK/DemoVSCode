@@ -1,2 +1,7 @@
-Hi Uma Mahesh.
-Some one changed
+Integration of VS Code to GitHub
+----------------------------------
+
+1)Create Repository in GitHub website exp: https://github.com/UmaMaheshK/DemoVSCode
+2)Copy the Repository Address(like above link)
+3)Open VS Code and Press (Ctrl+Shift+P) then type git:clone and press enter
+4)Give any Repository Address location in your local drive(d:\xxx123\123) then Press enter.
