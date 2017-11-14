@@ -5,3 +5,5 @@ Integration of VS Code to GitHub
 2)Copy the Repository Address(like above link)
 3)Open VS Code and Press (Ctrl+Shift+P) then type git:clone and press enter
 4)Give any Repository Address location in your local drive(d:\xxx123\123) then Press enter.
+5)Add Any file and commit.
+6) click on Push button to Save in GitHub.
